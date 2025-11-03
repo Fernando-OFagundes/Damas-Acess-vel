@@ -62,8 +62,8 @@ O código está organizado em:
 
 ## Desenvolvido por
 
-Fernando O. Fagundes; Lucas P. Klering - Estudante de Licenciatura em Computação  
-Disciplina: Processos Inclusivos: Teorias e Práticas
-Instituição: Instituto Federal Farroupilha - Campus Santo Ângelo
+Fernando O. Fagundes; Lucas P. Klering - Estudantes de Licenciatura em Computação  
+Disciplina: Processos Inclusivos: Fundamentos e Práticas
+Instituição: Instituto Federal de Educação, Ciência E Tecnologia Farroupilha - Campus Santo Ângelo
 
 *Projeto educacional com foco em acessibilidade digital e inclusão de pessoas com deficiência visual no mundo dos jogos.*
